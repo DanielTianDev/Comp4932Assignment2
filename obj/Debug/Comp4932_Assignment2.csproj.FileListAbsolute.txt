@@ -1,0 +1,9 @@
+C:\Users\riven\Desktop\BCIT 4th Term\PROJECTS(4995 and 4932)\Comp4932_Assignment2\bin\Debug\Comp4932_Assignment2.exe.config
+C:\Users\riven\Desktop\BCIT 4th Term\PROJECTS(4995 and 4932)\Comp4932_Assignment2\bin\Debug\Comp4932_Assignment2.exe
+C:\Users\riven\Desktop\BCIT 4th Term\PROJECTS(4995 and 4932)\Comp4932_Assignment2\bin\Debug\Comp4932_Assignment2.pdb
+C:\Users\riven\Desktop\BCIT 4th Term\PROJECTS(4995 and 4932)\Comp4932_Assignment2\obj\Debug\Comp4932_Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\riven\Desktop\BCIT 4th Term\PROJECTS(4995 and 4932)\Comp4932_Assignment2\obj\Debug\Comp4932_Assignment2.Main.resources
+C:\Users\riven\Desktop\BCIT 4th Term\PROJECTS(4995 and 4932)\Comp4932_Assignment2\obj\Debug\Comp4932_Assignment2.Properties.Resources.resources
+C:\Users\riven\Desktop\BCIT 4th Term\PROJECTS(4995 and 4932)\Comp4932_Assignment2\obj\Debug\Comp4932_Assignment2.csproj.GenerateResource.Cache
+C:\Users\riven\Desktop\BCIT 4th Term\PROJECTS(4995 and 4932)\Comp4932_Assignment2\obj\Debug\Comp4932_Assignment2.exe
+C:\Users\riven\Desktop\BCIT 4th Term\PROJECTS(4995 and 4932)\Comp4932_Assignment2\obj\Debug\Comp4932_Assignment2.pdb
